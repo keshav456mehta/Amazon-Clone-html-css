@@ -1,5 +1,3 @@
-# Amazon-Clone-html-css
-A front-end clone of the Amazon homepage built using HTML and CSS only.
 # 🛍️ Amazon Clone – HTML & CSS Project
 
 A front-end clone of the Amazon homepage built using only **HTML** and **CSS**.  
